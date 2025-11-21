@@ -92,6 +92,6 @@ Sightings grouped by species, ordered by count.
 ---
 
 ## Video Demonstration
-A short walkthrough video is included here:
+A short walkthrough video is attached below:
 
-
+https://github.com/user-attachments/assets/d69f3986-bde7-4694-bf74-08fdc11c1da0
