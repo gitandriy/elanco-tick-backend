@@ -1,4 +1,4 @@
-# Elanco Tick Sighting Backend (Placement Task)
+# Tick Sighting Backend
 
 This is a simple backend MVP for displaying and analysing UK tick sightings.  
 It loads the provided dataset, stores it in a SQLite database, and exposes API endpoints for searching and aggregated statistics.
